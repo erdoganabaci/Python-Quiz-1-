@@ -9,5 +9,7 @@ python python "Quiz Example.py"
 Your Word is :abcd43264 Total digit in your word :5 , Total letter in your word 4
 
 ----Even Finder----
+
 Please Enter Number to Find is Even:5
+
 False
